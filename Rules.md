@@ -51,3 +51,11 @@ When relevant documentation already exists, update existing files instead of cre
 Avoid document duplication and fragmentation
 ### 5.3
 Maintain single source of truth for related topics
+
+## 6. Feishu Communication
+### 6.1
+Consolidate all effective responses into a single message when using Feishu tools
+### 6.2
+Avoid multi-segment replies that cause excessive phone notifications
+### 6.3
+Batch related information and tool outputs into unified responses
