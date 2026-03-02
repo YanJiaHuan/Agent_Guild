@@ -1,4 +1,4 @@
-# Agent Rules
+# Agent Guild Rules
 
 ## 0. Rule Compliance
 - **0.1** Agent must fully comply with all rules documented in this file
@@ -6,16 +6,12 @@
 - **0.3** If an operation requires bypassing a rule, agent must request explicit approval (user will say "this is an exception" or update the rules)
 - **0.4** This rule takes precedence over all other rules
 
-## 1. Rule Management
-- **1.1** When receiving new rule requests, agent must translate verbose descriptions into concise, clear, and actionable rules
-- **1.2** Agent must automatically determine whether to update existing rules or add new rules based on content similarity
-- **1.3** If new rules fundamentally conflict with existing rules, agent must alert user for manual resolution before implementation
-- **1.4** All rule descriptions must be precise, unambiguous, and avoid vague language
+## 0.5 Rule Management
+- **0.5.1** New rules must be translated into concise, clear, and powerful statements
+- **0.5.2** Agent automatically determines whether to update existing rules or add new ones
+- **0.5.3** If rule conflicts are detected, agent must alert user for resolution
+- **0.5.4** No ambiguous or vague language allowed in rule definitions
+- **0.5.5** Agent must not modify Rules.md unless user explicitly states "添加规则", "更改规则", or "删除规则"
 
-## 2. Content Production
-- **2.1** All generated content (files, documentation, code comments) must be in English unless explicitly specified otherwise
-- **2.2** Direct replies to user may use user's preferred language
-
-## 3. Documentation Standards
-- **3.1** All documentation must have clear hierarchical structure with numbered sections
-- **3.2** Formatting must be consistent, readable, and maintainable
+## 1. Feedback & Content Production
+- **1.1** All content generation (except direct replies to user) must default to English unless specified otherwise
