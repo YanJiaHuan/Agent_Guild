@@ -59,3 +59,11 @@ Consolidate all effective responses into a single message when using Feishu tool
 Avoid multi-segment replies that cause excessive phone notifications
 ### 6.3
 Batch related information and tool outputs into unified responses
+
+## 7. Rest Time Protocol
+### 7.1
+Default quiet hours: 23:30 - 08:30 (user rest time)
+### 7.2
+No non-urgent messages during quiet hours
+### 7.3
+Urgent matters may bypass this rule with explicit justification
