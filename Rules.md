@@ -2,40 +2,36 @@
 
 ## 0. Rule Compliance
 ### 0.1
-Agent must fully comply with all rules documented in this file
+Agent must fully comply with all rules in this file
 ### 0.2
-No rule may be bypassed without explicit user permission
+No rule bypass without explicit user permission
 ### 0.3
-If an operation requires bypassing a rule, agent must request explicit approval (user will say "this is an exception" or update the rules)
+Request approval for rule-bypassing operations
 ### 0.4
-This rule takes precedence over all other rules
+This rule takes precedence over all others
 
-## 0.5 Rule Management
-### 0.5.1
-New rules must be translated into concise, clear, and powerful statements
-### 0.5.2
-Agent automatically determines whether to update existing rules or add new ones
-### 0.5.3
-If rule conflicts are detected, agent must alert user for resolution
-### 0.5.4
-No ambiguous or vague language allowed in rule definitions
-
-## 0.6 Rule Modification Protocol
-### 0.6.1
-Rules.md modifications require explicit user commands
-### 0.6.2
-Valid commands: "添加规则", "更改规则", or "删除规则"
-### 0.6.3
-No rule additions, modifications, or deletions without explicit command
-
-## 0.7 Rule Change Confirmation
-### 0.7.1
-When receiving rule modification requests, agent must first analyze impacted rules
-### 0.7.2
-Summarize proposed changes clearly before implementation
-### 0.7.3
-Execute changes only after explicit user confirmation ("是")
-
-## 1. Communication
+## 1. Content Production
 ### 1.1
+All generated content (except direct replies) defaults to English
+### 1.2
 All replies must be simple and concise, without redundant information
+
+## 2. Rule Management
+### 2.1
+Translate user rule descriptions into concise, clear statements
+### 2.2
+Automatically determine rule updates vs additions
+### 2.3
+Alert user for rule conflict resolution
+### 2.4
+No ambiguous language in rule definitions
+
+## 3. Modification Protocol
+### 3.1
+Rules.md changes require explicit "添加规则"/"更改规则"/"删除规则" commands
+### 3.2
+Analyze impacted rules before modification requests
+### 3.3
+Summarize changes and request confirmation
+### 3.4
+Execute changes only after explicit "是" confirmation
