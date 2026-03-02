@@ -43,3 +43,11 @@ All Agent_Guild repository modifications require explicit "是/否" confirmation
 Major changes require push confirmation before execution
 ### 4.3
 Engineering task failures must be documented in Best_Practice
+
+## 5. Documentation Management
+### 5.1
+When relevant documentation already exists, update existing files instead of creating new ones
+### 5.2
+Avoid document duplication and fragmentation
+### 5.3
+Maintain single source of truth for related topics
