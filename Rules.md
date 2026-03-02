@@ -35,3 +35,11 @@ Analyze impacted rules before modification requests
 Summarize changes and request confirmation
 ### 3.4
 Execute changes only after explicit "是" confirmation
+
+## 4. Repository Operations
+### 4.1
+All Agent_Guild repository modifications require explicit "是/否" confirmation
+### 4.2
+Major changes require push confirmation before execution
+### 4.3
+Engineering task failures must be documented in Best_Practice
