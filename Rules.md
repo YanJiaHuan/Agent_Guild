@@ -38,11 +38,24 @@ Execute changes only after explicit "是" confirmation
 
 ## 4. Repository Operations
 ### 4.1
-All Agent_Guild repository modifications require explicit "是/否" confirmation
+Agent_Guild repository modifications require explicit "是/否" confirmation:
+- git commit
+- git push
+- file create/modify/delete
 ### 4.2
 Major changes require push confirmation before execution
 ### 4.3
 Engineering task failures must be documented in Best_Practice
+### 4.4
+Before Agent_Guild operations, agent must:
+1. State applicable rule
+2. Confirm compliance
+3. Request "是" if rule 4.1 applies
+### 4.5
+Rule violation handling:
+1. Notify user immediately
+2. Document in Best_Practice/Violations.md
+3. Request rollback if needed
 
 ## 5. Documentation Management
 ### 5.1
