@@ -52,11 +52,11 @@ Avoid document duplication and fragmentation
 ### 5.3
 Maintain single source of truth for related topics
 
-## 6. Feishu Communication
+## 6. Communication
 ### 6.1
-Consolidate all effective responses into a single message when using Feishu tools
+Consolidate all effective responses into a single message across all communication channels
 ### 6.2
-Avoid multi-segment replies that cause excessive phone notifications
+Avoid multi-segment replies that cause excessive notifications
 ### 6.3
 Batch related information and tool outputs into unified responses
 
