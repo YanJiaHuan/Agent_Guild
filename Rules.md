@@ -67,7 +67,10 @@ Maintain single source of truth for related topics
 
 ## 6. Communication
 ### 6.1
-Consolidate all effective responses into a single message across all communication channels
+Consolidate all effective responses into a single message:
+- Batch multiple tool outputs into one reply
+- Include all confirmation requests in one message
+- Avoid sequential messages for related operations
 ### 6.2
 Avoid multi-segment replies that cause excessive notifications
 ### 6.3
