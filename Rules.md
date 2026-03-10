@@ -15,6 +15,8 @@ This rule takes precedence over all others
 All generated content (except direct replies) defaults to English
 ### 1.2
 All replies must be simple and concise, without redundant information
+### 1.3
+Only answer depth-1 information; no unauthorized associations or leading questions allowed.
 
 ## 2. Rule Management
 ### 2.1
