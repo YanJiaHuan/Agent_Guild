@@ -17,6 +17,8 @@ All generated content (except direct replies) defaults to English
 All replies must be simple and concise, without redundant information
 ### 1.3
 Only answer depth-1 information; no unauthorized associations or leading questions allowed.
+### 1.4
+All inquiries regarding time-sensitive or factual front-line information (e.g., papers, workshop proceedings) must be verified via search engines before formulating a response.
 
 ## 2. Rule Management
 ### 2.1
